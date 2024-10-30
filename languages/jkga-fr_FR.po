@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JK - Google Analytics\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-30 11:49+0100\n"
+"PO-Revision-Date: 2012-04-30 11:58+0100\n"
+"Last-Translator: Karl STEIN <jalik26@gmail.com>\n"
+"Language-Team: Karl STEIN <karl.stein.pro@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"X-Poedit-Basepath: /var/www/wordpress/wp-content/plugins/jk-google-analytics\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Plural-Forms: nplurals=2;plural=n>2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: options.php:72
+msgid "Single domain"
+msgstr "Un seul domaine"
+
+#: options.php:73
+msgid "Multiple subdomains"
+msgstr "Sous-domaines multiples"
+
+#: options.php:74
+msgid "Multiple domains"
+msgstr "Domaines multiples"
+
+#: jk-google-analytics.php:202
+msgid "Account informations"
+msgstr "Informations du compte"
+
+#: jk-google-analytics.php:204
+msgid "Tracking ID"
+msgstr "ID de suivi"
+
+#: jk-google-analytics.php:205
+msgid "Tracking target"
+msgstr "Cible du suivi"
+
+#: jk-google-analytics.php:206
+msgid "Urchin tracking"
+msgstr "Suivi Urchin"
+
+#: jk-google-analytics.php:211
+msgid "Excluded contents"
+msgstr "Contenus exclus"
+
+#: jk-google-analytics.php:213
+msgid "Exclude archives"
+msgstr "Exclure les archives"
+
+#: jk-google-analytics.php:214
+msgid "Exclude attachments"
+msgstr "Exclure les médias attachés"
+
+#: jk-google-analytics.php:215
+msgid "Exclude pages"
+msgstr "Exclure les pages"
+
+#: jk-google-analytics.php:216
+msgid "Exclude previews (recommended)"
+msgstr "Exclure les aperçus (recommandé)"
+
+#: jk-google-analytics.php:217
+msgid "Exclude searches"
+msgstr "Exclure les recherches"
+
+#: jk-google-analytics.php:222
+msgid "Excluded users"
+msgstr "Utilisateurs exclus"
+
+#: jk-google-analytics.php:224
+msgid "Exclude administrators (recommended)"
+msgstr "Exclure les administrateurs (recommandé)"
+
+#: jk-google-analytics.php:225
+msgid "Exclude authors"
+msgstr "Exclure les auteurs"
+
+#: jk-google-analytics.php:226
+msgid "Exclude contributors"
+msgstr "Exclure les contributeurs"
+
+#: jk-google-analytics.php:227
+msgid "Exclude editors"
+msgstr "Exclure les éditeurs"
+
+#: jk-google-analytics.php:228
+msgid "Exclude subscribers"
+msgstr "Exclure les abonnés"
+
+#: jk-google-analytics.php:229
+msgid "Exclude visitors"
+msgstr "Exclure les visiteurs"
+
+#: jk-google-analytics.php:363
+msgid "Exclude this page from tracking."
+msgstr "Exclure cette page du suivi."
+
+#: jk-google-analytics.php:434
+msgid "Google Analytics options"
+msgstr "Options de Google Analytics"
+
+#: jk-google-analytics.php:445
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: jk-google-analytics.php:461
+msgid "Incorrect tracking ID."
+msgstr "ID de suivi incorrect."
+
+#: jk-google-analytics.php:471
+msgid "Incorrect tracking target."
+msgstr "Cible du suivi incorrecte."
+
+#: jk-google-analytics.php:505
+msgid "Fill in your account informations."
+msgstr "Remplissez les informations de votre compte."
+
+#: jk-google-analytics.php:513
+msgid "Select the contents you don't want to track."
+msgstr "Sélectionnez les contenus que vous ne voulez pas suivre."
+
+#: jk-google-analytics.php:521
+msgid "Select the users you don't want to track."
+msgstr "Sélectionnez les utilisateurs que vous ne voulez pas suivre."
+
+#~ msgid "Exclude admin pages (recommended)"
+#~ msgstr "Exclure les pages d'administration (recommandé)"
+
+#~ msgid "Basic options"
+#~ msgstr "Options basiques"
+
+#~ msgid "Urchin mode"
+#~ msgstr "Mode urchin"
+
+#~ msgid "Advanced options"
+#~ msgstr "Options avancées"
+
+#~ msgid "Do not track archives"
+#~ msgstr "Désactiver le suivi des archives"
+
+#~ msgid "Do not track pages"
+#~ msgstr "Désactiver le suivi des pages"
+
+#~ msgid "Do not track searches"
+#~ msgstr "Désactiver le suivi des recherches"
+
+#~ msgid ""
+#~ "You can disable tracking on some pages (note: admin pages are never "
+#~ "tracked)."
+#~ msgstr ""
+#~ "Vous pouvez désactiver le suivi de certaines pages (remarque: les pages "
+#~ "d'administration ne sont jamais suivies)."
+
+#~ msgid "Fill in the informations that Google Analytics has given to you."
+#~ msgstr "Remplissez les informations que Google Analytics vous a donné."
